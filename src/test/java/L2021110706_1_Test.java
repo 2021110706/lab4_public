@@ -26,31 +26,32 @@ public class L2021110706_1_Test {
         Solution1 solution = new Solution1();
 
         // 分子为正
-        assertEquals("0.5", solution.fractionToDecimal(1, 2));
+        assertEquals("0.5", Solution1.fractionToDecimal(1, 2));
         // 分子为负
-        assertEquals("-0.5", solution.fractionToDecimal(-1, 2));
+        assertEquals("-0.5", Solution1.fractionToDecimal(-1, 2));
 
         // 分母为正
-        assertEquals("-0.5", solution.fractionToDecimal(-1, 2));
+        assertEquals("-0.5", Solution1.fractionToDecimal(-1, 2));
         // 分母为负
-        assertEquals("0.5", solution.fractionToDecimal(-1, -2));
+        assertEquals("0.5", Solution1.fractionToDecimal(-1, -2));
         // 分母为0
-        assertEquals("devided by zero", solution.fractionToDecimal(-1, 0));
+        assertEquals("devided by zero", Solution1.fractionToDecimal(-1, 0));
 
         // 结果为整数
-        assertEquals("2", solution.fractionToDecimal(2, 1));
+        assertEquals("2", Solution1.fractionToDecimal(2, 1));
         // 结果为有限小数
-        assertEquals("0.5", solution.fractionToDecimal(1, 2));
+        assertEquals("0.5", Solution1.fractionToDecimal(1, 2));
         // 结果为循环小数
-        assertEquals("0.(3)", solution.fractionToDecimal(1, 3));
+        assertEquals("0.(3)", Solution1.fractionToDecimal(1, 3));
 
         // 结果为正
-        assertEquals("3", solution.fractionToDecimal(6, 2));
+        assertEquals("3", Solution1.fractionToDecimal(6, 2));
         // 结果为负
-        assertEquals("-3", solution.fractionToDecimal(-6, 2));
+        //assertEquals("-3", solution.fractionToDecimal(-6, 2));  //修改为错误的
+        assertEquals("3", Solution1.fractionToDecimal(-6, 2));
 
         // 结果为循环小数（不超出104字符）
-        assertEquals("0.(012)", solution.fractionToDecimal(4, 333));
+        assertEquals("0.(012)", Solution1.fractionToDecimal(4, 333));
         // 结果为循环小数（超出104字符）
         assertEquals("-22.6(66330408357582135001459744612579077084907075062426932178118727867271782450191003164259080434469147", solution.fractionToDecimal(1195314646, -52735252));
 

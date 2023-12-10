@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c620dc5-bae4-42f3-825b-27ac5e5b0196" name="变更" comment="workflows">
-      <change beforePath="$PROJECT_DIR$/test/main/java/L2021110706_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/main/java/L2021110706_1_Test.java" afterDir="false" />
+    <list default="true" id="0c620dc5-bae4-42f3-825b-27ac5e5b0196" name="变更" comment="demo2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/L2021110706_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/L2021110706_1_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\课件\software\lab4\Lab4_again\.github\workflows" />
+      <recent name="D:\课件\software\lab4\Lab4_again\src\test" />
       <recent name="D:\课件\software\lab4\Lab4_again\src" />
       <recent name="D:\课件\software\lab4\Lab4_again" />
     </key>
@@ -83,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702202182364</updated>
-      <workItem from="1702202184314" duration="3239000" />
+      <workItem from="1702202184314" duration="4314000" />
     </task>
     <task id="LOCAL-00001" summary="workflows">
       <created>1702205177248</created>
@@ -99,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702205270090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="demo2">
+      <created>1702205528147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702205528147</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo2">
+      <created>1702205691349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702205691349</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workflows" />
-    <option name="LAST_COMMIT_MESSAGE" value="workflows" />
+    <MESSAGE value="demo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo2" />
   </component>
 </project>
