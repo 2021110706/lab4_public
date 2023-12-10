@@ -47,8 +47,8 @@ public class L2021110706_1_Test {
         // 结果为正
         assertEquals("3", Solution1.fractionToDecimal(6, 2));
         // 结果为负
-        //assertEquals("-3", solution.fractionToDecimal(-6, 2));  //修改为错误的
-        assertEquals("3", Solution1.fractionToDecimal(-6, 2));
+        assertEquals("-3", solution.fractionToDecimal(-6, 2));  //修改为错误的
+        //assertEquals("3", Solution1.fractionToDecimal(-6, 2));
 
         // 结果为循环小数（不超出104字符）
         assertEquals("0.(012)", Solution1.fractionToDecimal(4, 333));

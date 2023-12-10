@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c620dc5-bae4-42f3-825b-27ac5e5b0196" name="变更" comment="修改为错误的测试" />
+    <list default="true" id="0c620dc5-bae4-42f3-825b-27ac5e5b0196" name="变更" comment="auto-merge">
+      <change beforePath="$PROJECT_DIR$/src/test/java/L2021110706_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/L2021110706_1_Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/课件/software/lab4/Lab4_again/.github",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +49,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\课件\software\lab4\Lab4_again\.github" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\课件\software\lab4\Lab4_again\.github\workflows" />
       <recent name="D:\课件\software\lab4\Lab4_again\src\test" />
@@ -83,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702202182364</updated>
-      <workItem from="1702202184314" duration="5007000" />
+      <workItem from="1702202184314" duration="5278000" />
     </task>
     <task id="LOCAL-00001" summary="workflows">
       <created>1702205177248</created>
@@ -120,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702206589400</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="auto-merge">
+      <created>1702213175945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702213175945</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +154,7 @@
     <MESSAGE value="workflows" />
     <MESSAGE value="demo2" />
     <MESSAGE value="修改为错误的测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改为错误的测试" />
+    <MESSAGE value="auto-merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto-merge" />
   </component>
 </project>
